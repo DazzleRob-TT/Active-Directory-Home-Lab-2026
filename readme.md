@@ -10,17 +10,19 @@ Virtualization Software: VMware Workstation 25H2
 
 Operating systems: Windows Server 2022 and Windows 10
 
-![alt imagee](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/fbd60db98b1d0d9f3a17065ecb6fb57c933f6863/Phase%201/IP%20Change1.png)
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/fbd60db98b1d0d9f3a17065ecb6fb57c933f6863/Phase%201/IP%20Change1.png)
 
 Select Ethernet0 in the Local Sever Tab, IPv4 address assigned by DHCP, IPv6 enabled
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/704d0fe3d5524a10f6adbe961b5c16807e1e30d3/Phase%201/IP%20Change%202.png)
 Right click Interface select properties.
 
 Select Internet Protocol Version 4 (TCP/IPv4) then select properties.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/16ffa733b182ad3097bce2b2629bde3aa5aa7407/Phase%201/IP%20Change%203.png)
 Select use the following IP address.
+
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/16ffa733b182ad3097bce2b2629bde3aa5aa7407/Phase%201/IP%20Change%204.png)
 
 Enter the IP address, subnet mask, and default gateway
 At the bottom select use the following DNS server addresses
