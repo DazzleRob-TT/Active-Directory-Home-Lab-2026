@@ -39,7 +39,7 @@ Go to Server Manager then to Local Server.
 
 Select the computer name.
 
-![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/3d7e41e023f40a0ff12c923eb9ca446f03d85f0e/Phase%201/AD%202.png)
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/a189a5498c461922b034adefab7ece5a0ee1f0c2/Phase%201/Change%20name%202.png)
 
 Select change.
 
@@ -55,24 +55,25 @@ Select OK and restart the virtual machine.
 
 Go to Server Manager.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/a189a5498c461922b034adefab7ece5a0ee1f0c2/Phase%202/Adding%20DC%20Roles/Adding%20roles%20p1.png)
 
 Select Manage> Add Roles and Features
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/a189a5498c461922b034adefab7ece5a0ee1f0c2/Phase%202/Adding%20DC%20Roles/roles%202.png)
+
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/a189a5498c461922b034adefab7ece5a0ee1f0c2/Phase%202/Adding%20DC%20Roles/roles%203.png)
 
 The Add Roles and Features Wizard will appear.
 
 Select next.
 
-![alt image]()
-
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/a189a5498c461922b034adefab7ece5a0ee1f0c2/Phase%202/Adding%20DC%20Roles/roles%204.png)
 
 Select Role Based or feature-based installation and select next.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/a189a5498c461922b034adefab7ece5a0ee1f0c2/Phase%202/Adding%20DC%20Roles/roles%205.png)
 
-Select next.
+There is one server so just select next.
 
 ![alt image]()
 
