@@ -10,8 +10,7 @@ Virtualization Software: VMware Workstation 25H2
 
 Operating systems: Windows Server 2022 and Windows 10
 
-[![image alt] (Image)
-](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/b899925db9d06b0768eeb7d85f3c1222a98c5cf7/Phase%201/AD%201.png)
+![image alt] {https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/b899925db9d06b0768eeb7d85f3c1222a98c5cf7/Phase%201/AD%201.png}
 
 Select Ethernet0 in the Local Sever Tab, IPv4 address assigned by DHCP, IPv6 enabled
 
