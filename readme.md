@@ -57,9 +57,9 @@ Go to Server Manager.
 
 ![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/a189a5498c461922b034adefab7ece5a0ee1f0c2/Phase%202/Adding%20DC%20Roles/Adding%20roles%20p1.png)
 
-Select Manage> Add Roles and Features
-
 ![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/a189a5498c461922b034adefab7ece5a0ee1f0c2/Phase%202/Adding%20DC%20Roles/roles%202.png)
+
+Select Manage> Add Roles and Features.
 
 ![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/a189a5498c461922b034adefab7ece5a0ee1f0c2/Phase%202/Adding%20DC%20Roles/roles%203.png)
 
@@ -73,23 +73,23 @@ Select Role Based or feature-based installation and select next.
 
 ![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/a189a5498c461922b034adefab7ece5a0ee1f0c2/Phase%202/Adding%20DC%20Roles/roles%205.png)
 
-There is one server so just select next.
+There is one server, select next.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/4f70c6258649303bcb5cfe4735154ff2623f4066/Phase%202/Adding%20DC%20Roles/roles%208.png)
 
 For the server roles select Active Directory Domain Services, DHCP Server and DNS Server.
 
 Select next.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/4f70c6258649303bcb5cfe4735154ff2623f4066/Phase%202/Adding%20DC%20Roles/roles%207.png)
 
 Select Add Features.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/4f70c6258649303bcb5cfe4735154ff2623f4066/Phase%202/Adding%20DC%20Roles/roles%209.png)
 
-In the Features section ensure Group Policy Management is ticked  and select next.
+In the Features section ensure Group Policy Management is ticked and select next.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/4f70c6258649303bcb5cfe4735154ff2623f4066/Phase%202/Adding%20DC%20Roles/roles%2010.png)
 
 Select next.
 
