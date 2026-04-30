@@ -12,9 +12,10 @@ Operating systems: Windows Server 2022 and Windows 10
 
 ![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/fbd60db98b1d0d9f3a17065ecb6fb57c933f6863/Phase%201/IP%20Change1.png)
 
-Select Ethernet0 in the Local Sever Tab, IPv4 address assigned by DHCP, IPv6 enabled
+Select Ethernet0 in the Local Sever Tab, IPv4 address assigned by DHCP, IPv6 enabled.
 
 ![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/704d0fe3d5524a10f6adbe961b5c16807e1e30d3/Phase%201/IP%20Change%202.png)
+
 Right click Interface select properties.
 
 Select Internet Protocol Version 4 (TCP/IPv4) then select properties.
@@ -24,26 +25,30 @@ Select use the following IP address.
 
 ![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/16ffa733b182ad3097bce2b2629bde3aa5aa7407/Phase%201/IP%20Change%204.png)
 
-Enter the IP address, subnet mask, and default gateway
-At the bottom select use the following DNS server addresses
+Enter the IP address, subnet mask, and default gateway.
+
+At the bottom select use the following DNS server addresses.
 
 In the preferred DNS server field enter the DNS server (I used the loopback IP address) and select OK.
 
 # **Changing the computer name**
-![alt image]()
+
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/3d7e41e023f40a0ff12c923eb9ca446f03d85f0e/Phase%201/Change%20name%201.png)
 
 Go to Server Manager then to Local Server. 
 
 Select the computer name.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/3d7e41e023f40a0ff12c923eb9ca446f03d85f0e/Phase%201/AD%202.png)
 
 Select change.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/main/Phase%201/Change%20name%203.png)
+
 Enter the computer name (DC1) and select OK.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/3d7e41e023f40a0ff12c923eb9ca446f03d85f0e/Phase%201/Change%20name%204.png)
+
 Select OK and restart the virtual machine.
 
 # **Installing roles (AD DS, DHCP, DNS)**
