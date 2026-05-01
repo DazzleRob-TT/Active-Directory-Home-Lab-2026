@@ -115,13 +115,13 @@ After the installation is completed select promote this server to a domain contr
 
 # **Server promotion to a Domain Controller**
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/820af317ebe304f45422c2a9fbfd4fd69910973a/Phase%202/Promoting%20Server%20to%20DC/Promo%20to%20DC%202.png)
 
 Select add a new forest and enter the root domain name.
 
 Select next.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/820af317ebe304f45422c2a9fbfd4fd69910973a/Phase%202/Promoting%20Server%20to%20DC/Promo%20to%20DC%203.png)
 
 Select a a functional forest and domain level.
 
@@ -129,21 +129,21 @@ Enter a Directory Services Restore Mode password.
 
 Select next.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/820af317ebe304f45422c2a9fbfd4fd69910973a/Phase%202/Promoting%20Server%20to%20DC/Promo%20to%20DC%204.png)
 
 Select next.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/820af317ebe304f45422c2a9fbfd4fd69910973a/Phase%202/Promoting%20Server%20to%20DC/Promo%20to%20DC%205.png)
 
 A NETBIOS name will be generated.
 
 Select next.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/820af317ebe304f45422c2a9fbfd4fd69910973a/Phase%202/Promoting%20Server%20to%20DC/Promo%20to%20DC%206.png)
 
 Select next.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/820af317ebe304f45422c2a9fbfd4fd69910973a/Phase%202/Promoting%20Server%20to%20DC/Promo%20to%20DC%207.png)
 
 Select next.
 
