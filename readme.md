@@ -211,30 +211,29 @@ The user is now created.
 
 ## **Adding a user to a group**
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/eae73bcc0ba71f80837fc53b39701e262be3fd3c/Phase%203/Creating%20users%20and%20groups/UG%2012.png)
 
 Right click a user.
 
 Select add to a group.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/eae73bcc0ba71f80837fc53b39701e262be3fd3c/Phase%203/Creating%20users%20and%20groups/UG%2013.png)
 
-Enter the name of the group in the white section. 
+Enter the name of the group in the white section.
 
 Select check names.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/eae73bcc0ba71f80837fc53b39701e262be3fd3c/Phase%203/Creating%20users%20and%20groups/UG%2014.png)
 
 The group was found successfully indicated by the underline.
 
 Select OK.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/eae73bcc0ba71f80837fc53b39701e262be3fd3c/Phase%203/Creating%20users%20and%20groups/UG%2015.png)
 
 Select OK.
 
-![alt image]()
-
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/eae73bcc0ba71f80837fc53b39701e262be3fd3c/Phase%203/Creating%20users%20and%20groups/UG%2016.png)
 
 To verify what groups a user is a member of
 right click the user>select the member of tab.
