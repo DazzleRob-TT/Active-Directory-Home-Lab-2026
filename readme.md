@@ -513,7 +513,7 @@ I gave the group read/write permissions and selected share.
 
 # **Mapping the share drive on the client machine**
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/aa0c721efc1ef05e8d1c65dd638a70dfde435138/Phase%207/Mapping%20Share%20Folder/Mapd1.png)
 
 Go to the client machine and login as a domain user.
 
@@ -521,29 +521,29 @@ Go to “This PC” in the file explorer.
 
 Go to the ribbon at the top and select “Map network drive”.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/1de552b928b4cfac436a58b66d07e0a077d5c80e/Phase%207/Mapping%20Share%20Folder/Mapd2.png)
 
 I entered the server name “\\DC1” and selected browse.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/1de552b928b4cfac436a58b66d07e0a077d5c80e/Phase%207/Mapping%20Share%20Folder/Mapd3.png)
 
 I selected the share folder and selected OK.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/1de552b928b4cfac436a58b66d07e0a077d5c80e/Phase%207/Mapping%20Share%20Folder/Mapd4.png)
 
 Select finish.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/1de552b928b4cfac436a58b66d07e0a077d5c80e/Phase%207/Mapping%20Share%20Folder/Mapd5.png)
 
 The drive was successfully mapped.
 
 # **Testing the shared folder permissions**
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/1de552b928b4cfac436a58b66d07e0a077d5c80e/Phase%207/Testing%20Share%20Permissions/Testing%20Share%20Permissions%201.png)
 
 I navigated to the Admin Department folder and attempted to add a text document.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/1de552b928b4cfac436a58b66d07e0a077d5c80e/Phase%207/Testing%20Share%20Permissions/TP2.png)
 
 The text document was added successfully and this means the read/write configuration worked.
 
