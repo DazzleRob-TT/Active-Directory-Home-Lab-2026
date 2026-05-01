@@ -447,11 +447,11 @@ I also configured an account lockout policy.
 
 After 4 invalid logon attempts an account will be locked.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/aa0c721efc1ef05e8d1c65dd638a70dfde435138/Phase%206/Testing%20GPOs/GPOS%2010.png)
 
 I placed the PC1 computer in a computers Organizational Unit that I created.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/aa0c721efc1ef05e8d1c65dd638a70dfde435138/Phase%206/Testing%20GPOs/GPOS%2012.png)
 
 I forced the group policies to be implemented on the client computer by inserting the gpupdate /force command in command prompt.
 
@@ -461,51 +461,53 @@ Video of me testing the policy.
 
 # **Creating a shared folder**
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/aa0c721efc1ef05e8d1c65dd638a70dfde435138/Phase%207/Adding%20a%20Share%20folder/Sharef1.png)
 
 Go to the domain controller and create a folder.
 
 I created a folder in the C: drive.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/aa0c721efc1ef05e8d1c65dd638a70dfde435138/Phase%207/Adding%20a%20Share%20folder/Sf2.png)
 
 Right click the folder>Select properties
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/aa0c721efc1ef05e8d1c65dd638a70dfde435138/Phase%207/Adding%20a%20Share%20folder/Sf3.png)
 
 Select the sharing tab>Select advanced sharing
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/aa0c721efc1ef05e8d1c65dd638a70dfde435138/Phase%207/Adding%20a%20Share%20folder/Sf4.png)
 
 Select share this folder.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/aa0c721efc1ef05e8d1c65dd638a70dfde435138/Phase%207/Adding%20a%20Share%20folder/Sf5.png)
 
 Select permissions.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/aa0c721efc1ef05e8d1c65dd638a70dfde435138/Phase%207/Adding%20a%20Share%20folder/Sf6.png)
 
 This can be left as default.
 
 Select OK.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/aa0c721efc1ef05e8d1c65dd638a70dfde435138/Phase%207/Adding%20a%20Share%20folder/Sf7.png)
 
 Within the shared folder I created a folder named “Admin Department”
 
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/aa0c721efc1ef05e8d1c65dd638a70dfde435138/Phase%207/Adding%20a%20Share%20folder/Sf8.png)
+
 Right click the folder and select properties.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/aa0c721efc1ef05e8d1c65dd638a70dfde435138/Phase%207/Adding%20a%20Share%20folder/Sf9.png)
 
 Select the sharing tab>Select share.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/aa0c721efc1ef05e8d1c65dd638a70dfde435138/Phase%207/Adding%20a%20Share%20folder/Sf10.png)
 
 Enter the name of the group to give permission to access the folder.
 
 I entered “Admin Department” and selected add.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/aa0c721efc1ef05e8d1c65dd638a70dfde435138/Phase%207/Adding%20a%20Share%20folder/Sf11.png)
 
 I gave the group read/write permissions and selected share.
 
