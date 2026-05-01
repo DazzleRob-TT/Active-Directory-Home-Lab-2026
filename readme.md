@@ -93,23 +93,23 @@ In the Features section ensure Group Policy Management is ticked and select next
 
 Select next.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/6fea75f93e407637c6de76c3959710b42c846344/Phase%202/Adding%20DC%20Roles/roles%2011.png)
 
 Select next.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/6fea75f93e407637c6de76c3959710b42c846344/Phase%202/Adding%20DC%20Roles/roles%2012.png)
 
 Select next.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/6fea75f93e407637c6de76c3959710b42c846344/Phase%202/Adding%20DC%20Roles/roles%2013.png)
 
 Select install.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/6fea75f93e407637c6de76c3959710b42c846344/Phase%202/Adding%20DC%20Roles/roles%2014.png)
 
 Wait for the installation to complete.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/6fea75f93e407637c6de76c3959710b42c846344/Phase%202/Adding%20DC%20Roles/roles%2015.png)
 
 After the installation is completed select promote this server to a domain controller.
 
