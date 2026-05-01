@@ -455,9 +455,9 @@ I placed the PC1 computer in a computers Organizational Unit that I created.
 
 I forced the group policies to be implemented on the client computer by inserting the gpupdate /force command in command prompt.
 
-Testing the account lockout policy
+## Testing the account lockout policy
 
-Video of me testing the policy.
+### Video of me testing the policy.
 
 
 
