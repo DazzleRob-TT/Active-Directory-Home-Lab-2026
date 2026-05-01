@@ -550,4 +550,4 @@ The text document was added successfully and this means the read/write configura
 # **Conclusion**
 I learned that some policies in GPO can not be implemented at the OU level but has to be linked to the entire domain for example Password policies and account lockout policies are to be attached to the domain.
 
-I plan to expand this home lab and continue to learn more about active directory.
+I plan to expand this home lab and continue to learn more about Active Directory.
