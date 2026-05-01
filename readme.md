@@ -459,6 +459,12 @@ Testing the account lockout policy
 
 Video of me testing the policy.
 
+
+
+https://github.com/user-attachments/assets/96d644bf-8fd2-4769-9404-376efd20e851
+
+
+
 # **Creating a shared folder**
 
 ![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/aa0c721efc1ef05e8d1c65dd638a70dfde435138/Phase%207/Adding%20a%20Share%20folder/Sharef1.png)
