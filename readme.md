@@ -407,19 +407,19 @@ I confirmed that a DHCP address is in use by the doing the ipconfig /all command
 
 # **Creating Group Policies**
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/fbd6c15aa3de6e2cd797cc06c99bca6c26253361/Phase%206/Creating%20GPOs/GPOS%201.png)
 
 Go to the start menu of the domain controller and search for Group Policy Management.
 
 Select Group Policy Management.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/fbd6c15aa3de6e2cd797cc06c99bca6c26253361/Phase%206/Creating%20GPOs/GPOS%202.png)
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/fbd6c15aa3de6e2cd797cc06c99bca6c26253361/Phase%206/Creating%20GPOs/GPOS%203.png)
 
 Select the domain and right click>Select “Create a GPO in this domain, and link it here”.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/fbd6c15aa3de6e2cd797cc06c99bca6c26253361/Phase%206/Creating%20GPOs/GPOS%204.png)
 
 Enter the name of the Group Policy Object. 
 
@@ -427,21 +427,21 @@ I am creating a password policy.
 
 Select OK.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/fbd6c15aa3de6e2cd797cc06c99bca6c26253361/Phase%206/Creating%20GPOs/GPOS%205.png)
 
 To configure the policy right click the policy and select edit.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/fbd6c15aa3de6e2cd797cc06c99bca6c26253361/Phase%206/Creating%20GPOs/GPOS%206.png)
 
 To find the appropriate policy settings select computer configuration>policies>windows settings>security settings>account policies>password policy.
 
-![alt image]() 
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/fbd6c15aa3de6e2cd797cc06c99bca6c26253361/Phase%206/Creating%20GPOs/GPOS%207.png) 
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/fbd6c15aa3de6e2cd797cc06c99bca6c26253361/Phase%206/Creating%20GPOs/GPOS%208.png)
 
 I configured the policy.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/fbd6c15aa3de6e2cd797cc06c99bca6c26253361/Phase%206/Creating%20GPOs/GPOS%209.png)
 
 I also configured an account lockout policy.
 
