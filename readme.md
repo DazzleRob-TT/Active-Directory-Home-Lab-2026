@@ -185,25 +185,27 @@ Within the Users Organizational Unit I made a Group called Admin Department.
 
 # **Creating a User**
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/59ed169539569f2fe5a4c9914cd1588d3927142f/Phase%203/Creating%20users%20and%20groups/UG%207.png)
 
 In the right pane section right click. 
 
 Go to New>User.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/59ed169539569f2fe5a4c9914cd1588d3927142f/Phase%203/Creating%20users%20and%20groups/UG%208.png)
 
 Enter the user credentials.
 
 Select next.
 
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/59ed169539569f2fe5a4c9914cd1588d3927142f/Phase%203/Creating%20users%20and%20groups/UG%209.png)
+
 Create a user password.
 
 For the purposes of this lab I checked the Password never expires box.
 
-Select Finished.
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/59ed169539569f2fe5a4c9914cd1588d3927142f/Phase%203/Creating%20users%20and%20groups/UG%2010.png) 
 
-![alt image]() 
+Select Finished.
 
 The user is now created.
 
