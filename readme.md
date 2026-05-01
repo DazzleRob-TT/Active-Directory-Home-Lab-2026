@@ -347,7 +347,7 @@ Give the pc an IP address to connect to the domain.
 
 Select OK.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/4f590230dec2db41e4da865dba863831008de3ec/Phase%205/Adding%20Computer%20to%20Domain%20and%20Signing%20User%20In/ATD%208.png)
 
 I opened command prompt and entered the ipconfig /all command to verify the all the IP configuration information.
 
@@ -357,51 +357,51 @@ The test results were successful in that the pc can communicate with the domain 
 
 The next step is to add the pc to the domain.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/4f590230dec2db41e4da865dba863831008de3ec/Phase%205/Adding%20Computer%20to%20Domain%20and%20Signing%20User%20In/ATD%209.png)
 
 Right click the start button>Select system.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/4f590230dec2db41e4da865dba863831008de3ec/Phase%205/Adding%20Computer%20to%20Domain%20and%20Signing%20User%20In/ATD%2010.png)
 
 Select advanced system settings.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/4f590230dec2db41e4da865dba863831008de3ec/Phase%205/Adding%20Computer%20to%20Domain%20and%20Signing%20User%20In/ATD%2011.png)
 
 Select change.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/4f590230dec2db41e4da865dba863831008de3ec/Phase%205/Adding%20Computer%20to%20Domain%20and%20Signing%20User%20In/ATD%2012.png)
 
 I renamed the computer to PC1.
 
-Under member of select domain.
+Under "member of" select domain.
 
 Enter the domain name and select OK.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/4f590230dec2db41e4da865dba863831008de3ec/Phase%205/Adding%20Computer%20to%20Domain%20and%20Signing%20User%20In/ATD%2013.png)
 
 A prompt will appear to enter administrative privileges to add the computer to the domain.
 
 Enter the administrative credentials and select OK.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/4f590230dec2db41e4da865dba863831008de3ec/Phase%205/Adding%20Computer%20to%20Domain%20and%20Signing%20User%20In/ATD%2014.png)
 
 The computer was added to the domain.
 
 The computer will be restarted.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/4f590230dec2db41e4da865dba863831008de3ec/Phase%205/Adding%20Computer%20to%20Domain%20and%20Signing%20User%20In/ATD%2016.png)
 
 After the restart sign in as a domain user.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/4f590230dec2db41e4da865dba863831008de3ec/Phase%205/Adding%20Computer%20to%20Domain%20and%20Signing%20User%20In/ATD%2017.png)
 
 I am now signed as a domain user.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/4f590230dec2db41e4da865dba863831008de3ec/Phase%205/Adding%20Computer%20to%20Domain%20and%20Signing%20User%20In/ATD%2018.png)
 
 I configured the computer to receive a DHCP address.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/4f590230dec2db41e4da865dba863831008de3ec/Phase%205/Adding%20Computer%20to%20Domain%20and%20Signing%20User%20In/ATD%2019.png)
 
 I confirmed that a DHCP address is in use by the doing the ipconfig /all command in command prompt.
 
