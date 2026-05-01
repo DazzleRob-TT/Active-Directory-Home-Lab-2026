@@ -239,75 +239,75 @@ To verify what groups a user is a member of
 right click the user>select the member of tab.
 
 # **DHCP Scope Configuration**
-## DHCP after role installation
+## DHCP after the role installation
 
-Run the DHCP Post-Install configuration wizard to authorize the DHCP server and press Commit. 
+Run the DHCP Post-Install configuration wizard to authorize the DHCP server and press commit. 
 
 I Forgot to do this before configuring the DHCP Scope.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/187cf3bae5f73bb604ee8f8b37268440d1caf442/Phase%204/Configuring%20DHCP/Configuring%20DHCP%201.png)
 
 Go to Server manager>Tools>DHCP.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/187cf3bae5f73bb604ee8f8b37268440d1caf442/Phase%204/Configuring%20DHCP/DHCP%203.png)
 
 Right click IPv4>Select New Scope.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/187cf3bae5f73bb604ee8f8b37268440d1caf442/Phase%204/Configuring%20DHCP/DHCP%204.png)
 
 Select next.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/187cf3bae5f73bb604ee8f8b37268440d1caf442/Phase%204/Configuring%20DHCP/DHCP%205.png)
 
 Give the scope a name.
 
 Select next.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/187cf3bae5f73bb604ee8f8b37268440d1caf442/Phase%204/Configuring%20DHCP/DHCP%206.png)
 
 Enter the IP address range for the scope along the with the length and subnet mask.
 
 Select next.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/187cf3bae5f73bb604ee8f8b37268440d1caf442/Phase%204/Configuring%20DHCP/DHCP%207%20.png)
 
 Add any IP address exclusions.
 
 Select next.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/187cf3bae5f73bb604ee8f8b37268440d1caf442/Phase%204/Configuring%20DHCP/DHCP%208.png)
 
 Enter the lease duration of an IP address.
 
 Select next.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/187cf3bae5f73bb604ee8f8b37268440d1caf442/Phase%204/Configuring%20DHCP/DHCP%209.png)
 
 Select “Yes I want to configure DHCP options now”.
 
 Select next.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/187cf3bae5f73bb604ee8f8b37268440d1caf442/Phase%204/Configuring%20DHCP/DHCP%2010.png)
 
 Add an IP address for the default gateway.
 
 Select next.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/187cf3bae5f73bb604ee8f8b37268440d1caf442/Phase%204/Configuring%20DHCP/DHCP%2011.png)
 
 Select next.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/187cf3bae5f73bb604ee8f8b37268440d1caf442/Phase%204/Configuring%20DHCP/DHCP%2012.png)
 
 Select next.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/187cf3bae5f73bb604ee8f8b37268440d1caf442/Phase%204/Configuring%20DHCP/DHCP%2013.png)
 
 Select “Yes, I want to activate this scope now”.
 
 Select next.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/187cf3bae5f73bb604ee8f8b37268440d1caf442/Phase%204/Configuring%20DHCP/DHCP%2014.png)
 
 Select finish.
 
