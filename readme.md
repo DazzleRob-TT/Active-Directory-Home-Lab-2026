@@ -147,7 +147,7 @@ Select next.
 
 Select next.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/68a2f243aa8e6d45567ebd5cc7bc9df2cb1ad315/Phase%202/Promoting%20Server%20to%20DC/Promo%20to%20DC%208.png)
 
 Select install.
 
@@ -155,11 +155,11 @@ The server will be restarted and the server will be become a domain controller.
 
 # **Creating users and groups in Active Directory**
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/68a2f243aa8e6d45567ebd5cc7bc9df2cb1ad315/Phase%203/Creating%20users%20and%20groups/Users%20and%20groups%201.png)
 
 Go to Server Manager then Tools select Active Directory Users and Computers.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/68a2f243aa8e6d45567ebd5cc7bc9df2cb1ad315/Phase%203/Creating%20users%20and%20groups/UG%202.png)
 
 Select the domain drop down. 
 
@@ -167,19 +167,19 @@ In the right pane section right click.
 
 Go to New>Organizational Unit
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/68a2f243aa8e6d45567ebd5cc7bc9df2cb1ad315/Phase%203/Creating%20users%20and%20groups/UG%203.png)
 
 Enter a name. 
 
 Select OK.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/68a2f243aa8e6d45567ebd5cc7bc9df2cb1ad315/Phase%203/Creating%20users%20and%20groups/UG%204.png)
 
 I made another Organizational Unit within the previous one and named it “Users”.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/68a2f243aa8e6d45567ebd5cc7bc9df2cb1ad315/Phase%203/Creating%20users%20and%20groups/UG%205.png)
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/68a2f243aa8e6d45567ebd5cc7bc9df2cb1ad315/Phase%203/Creating%20users%20and%20groups/UG%206.png)
 
 Within the Users Organizational Unit I made a Group called Admin Department.
 
