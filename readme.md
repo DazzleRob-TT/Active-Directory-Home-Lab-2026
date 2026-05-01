@@ -315,33 +315,33 @@ Select finish.
 
 Sign into pc.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/ecd2ac444650790a350ee11a4231da53bdbc9674/Phase%205/Adding%20Computer%20to%20Domain%20and%20Signing%20User%20In/Adding%20PC%20to%20Domain%201.png)
 
 Search for and click control panel.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/ecd2ac444650790a350ee11a4231da53bdbc9674/Phase%205/Adding%20Computer%20to%20Domain%20and%20Signing%20User%20In/ATD%202.png)
 
 Select network and internet.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/ecd2ac444650790a350ee11a4231da53bdbc9674/Phase%205/Adding%20Computer%20to%20Domain%20and%20Signing%20User%20In/ATD%203.png)
 
 Select network and sharing center.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/ecd2ac444650790a350ee11a4231da53bdbc9674/Phase%205/Adding%20Computer%20to%20Domain%20and%20Signing%20User%20In/ATD%204.png)
 
 Select change adapter settings.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/ecd2ac444650790a350ee11a4231da53bdbc9674/Phase%205/Adding%20Computer%20to%20Domain%20and%20Signing%20User%20In/ATD%205.png)
 
 Right click the adapter>Select properties.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/ecd2ac444650790a350ee11a4231da53bdbc9674/Phase%205/Adding%20Computer%20to%20Domain%20and%20Signing%20User%20In/ATD%206.png)
 
 Select Internet Protocol Version 4 (TCP/IPv4).
 
 Select properties.
 
-![alt image]()
+![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/ecd2ac444650790a350ee11a4231da53bdbc9674/Phase%205/Adding%20Computer%20to%20Domain%20and%20Signing%20User%20In/ATD%207.png)
 
 Give the pc an IP address to connect to the domain.
 
