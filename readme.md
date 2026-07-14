@@ -19,15 +19,20 @@ This is a basic home lab of Active Directory that I attempted using Windows Serv
 
 ![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/704d0fe3d5524a10f6adbe961b5c16807e1e30d3/Phase%201/IP%20Change%202.png)
 
+
 #### 2. Right click Interface select properties.
 
 #### 3. Select Internet Protocol Version 4 (TCP/IPv4) then select properties.
 
+
 ![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/16ffa733b182ad3097bce2b2629bde3aa5aa7407/Phase%201/IP%20Change%203.png)
+
 
 #### 4. Select use the following IP address.
 
+
 ![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/16ffa733b182ad3097bce2b2629bde3aa5aa7407/Phase%201/IP%20Change%204.png)
+
 
 #### 5. Enter the IP address, subnet mask, and default gateway.
 
@@ -39,19 +44,26 @@ This is a basic home lab of Active Directory that I attempted using Windows Serv
 
 ![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/3d7e41e023f40a0ff12c923eb9ca446f03d85f0e/Phase%201/Change%20name%201.png)
 
+
 #### 1. Go to Server Manager then to Local Server. 
 
 #### 2. Select the computer name.
 
+
 ![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/a189a5498c461922b034adefab7ece5a0ee1f0c2/Phase%201/Change%20name%202.png)
+
 
 #### 3. Select change.
 
+
 ![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/main/Phase%201/Change%20name%203.png)
+
 
 #### 4. Enter the computer name (DC1) and select OK.
 
+
 ![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/3d7e41e023f40a0ff12c923eb9ca446f03d85f0e/Phase%201/Change%20name%204.png)
+
 
 #### 5. Select OK and restart the virtual machine.
 
@@ -59,67 +71,93 @@ This is a basic home lab of Active Directory that I attempted using Windows Serv
 
 #### 1. Go to Server Manager.
 
+
 ![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/a189a5498c461922b034adefab7ece5a0ee1f0c2/Phase%202/Adding%20DC%20Roles/Adding%20roles%20p1.png)
+
 
 ![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/a189a5498c461922b034adefab7ece5a0ee1f0c2/Phase%202/Adding%20DC%20Roles/roles%202.png)
 
+
 #### 2. Select Manage> Add Roles and Features.
 
+
 ![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/a189a5498c461922b034adefab7ece5a0ee1f0c2/Phase%202/Adding%20DC%20Roles/roles%203.png)
+
 
 #### 3. The Add Roles and Features Wizard will appear.
 
 #### 4. Select next.
 
+
 ![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/a189a5498c461922b034adefab7ece5a0ee1f0c2/Phase%202/Adding%20DC%20Roles/roles%204.png)
+
 
 #### 5. Select Role Based or feature-based installation and select next.
 
+
 ![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/a189a5498c461922b034adefab7ece5a0ee1f0c2/Phase%202/Adding%20DC%20Roles/roles%205.png)
+
 
 #### 6. There is one server, select next.
 
+
 ![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/4f70c6258649303bcb5cfe4735154ff2623f4066/Phase%202/Adding%20DC%20Roles/roles%208.png)
+
 
 #### 7. For the server roles select Active Directory Domain Services, DHCP Server and DNS Server.
 
 #### 8. Select next.
 
+
 ![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/4f70c6258649303bcb5cfe4735154ff2623f4066/Phase%202/Adding%20DC%20Roles/roles%207.png)
+
 
 #### 9. Select Add Features.
 
+
 ![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/4f70c6258649303bcb5cfe4735154ff2623f4066/Phase%202/Adding%20DC%20Roles/roles%209.png)
+
 
 #### 10. In the Features section ensure Group Policy Management is ticked and select next.
 
+
 ![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/4f70c6258649303bcb5cfe4735154ff2623f4066/Phase%202/Adding%20DC%20Roles/roles%2010.png)
+
 
 #### 11. Select next.
 
 ![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/6fea75f93e407637c6de76c3959710b42c846344/Phase%202/Adding%20DC%20Roles/roles%2011.png)
 
+
 #### 12. Select next.
+
 
 ![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/6fea75f93e407637c6de76c3959710b42c846344/Phase%202/Adding%20DC%20Roles/roles%2012.png)
 
+
 #### 13. Select next.
 
+
 ![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/6fea75f93e407637c6de76c3959710b42c846344/Phase%202/Adding%20DC%20Roles/roles%2013.png)
+
 
 #### 14. Select install.
 
 ![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/6fea75f93e407637c6de76c3959710b42c846344/Phase%202/Adding%20DC%20Roles/roles%2014.png)
 
+
 #### 15. Wait for the installation to complete.
 
+
 ![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/6fea75f93e407637c6de76c3959710b42c846344/Phase%202/Adding%20DC%20Roles/roles%2015.png)
+
 
 #### 16. After the installation is completed select promote this server to a domain controller.
 
 # **Server promotion to a Domain Controller**
 
 ![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/820af317ebe304f45422c2a9fbfd4fd69910973a/Phase%202/Promoting%20Server%20to%20DC/Promo%20to%20DC%202.png)
+
 
 #### 1. Select add a new forest and enter the root domain name.
 
