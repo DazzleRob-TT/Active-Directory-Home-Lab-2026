@@ -315,15 +315,14 @@ The user is now created.
 ![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/eae73bcc0ba71f80837fc53b39701e262be3fd3c/Phase%203/Creating%20users%20and%20groups/UG%2016.png)
 
 
-#### 8. To verify what groups a user is a member of
-right click the user>select the member of tab.
+#### 8. To verify what groups a user is a member of right click the user>then select the member of tab.
 
 # **DHCP Scope Configuration**
 ## DHCP after the role installation
 
 #### 1. Run the DHCP Post-Install configuration wizard to authorize the DHCP server and press commit. 
 
-I Forgot to do this before configuring the DHCP Scope.
+#### I Forgot to do this before configuring the DHCP Scope.
 
 
 ![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/187cf3bae5f73bb604ee8f8b37268440d1caf442/Phase%204/Configuring%20DHCP/Configuring%20DHCP%201.png)
