@@ -6,30 +6,30 @@ This is a basic home lab of Active Directory that I attempted using Windows Serv
 
 ## What I used to do the lab
 
-1. Virtualization Software: VMware Workstation 25H2
+#### 1. Virtualization Software: VMware Workstation 25H2
 
-2. Operating systems: Windows Server 2022 and Windows 10
+#### 2. Operating systems: Windows Server 2022 and Windows 10
 
 ## **Configuring the IP Address of the Server**
 ![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/fbd60db98b1d0d9f3a17065ecb6fb57c933f6863/Phase%201/IP%20Change1.png)
 
-1.Select Ethernet0 in the Local Sever Tab, IPv4 address assigned by DHCP, IPv6 enabled.
+#### 1. Select Ethernet0 in the Local Sever Tab, IPv4 address assigned by DHCP, IPv6 enabled.
 
 ![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/704d0fe3d5524a10f6adbe961b5c16807e1e30d3/Phase%201/IP%20Change%202.png)
 
-2.Right click Interface select properties.
+2. Right click Interface select properties.
 
-3.Select Internet Protocol Version 4 (TCP/IPv4) then select properties.
+3. Select Internet Protocol Version 4 (TCP/IPv4) then select properties.
 
 ![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/16ffa733b182ad3097bce2b2629bde3aa5aa7407/Phase%201/IP%20Change%203.png)
 
-4.Select use the following IP address.
+4. Select use the following IP address.
 
 ![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/16ffa733b182ad3097bce2b2629bde3aa5aa7407/Phase%201/IP%20Change%204.png)
 
-5.Enter the IP address, subnet mask, and default gateway.
+5. Enter the IP address, subnet mask, and default gateway.
 
-At the bottom select use the following DNS server addresses.
+6. At the bottom select use the following DNS server addresses.
 
 In the preferred DNS server field enter the DNS server (I used the loopback IP address) and select OK.
 
@@ -557,5 +557,6 @@ https://github.com/user-attachments/assets/96d644bf-8fd2-4769-9404-376efd20e851
 
 # **Conclusion**
 I learned that some policies in GPO can not be implemented at the OU level but has to be linked to the entire domain for example password policies and account lockout policies are to be attached to the domain.
+
 
 I plan to expand this home lab and continue to learn more about Active Directory.
