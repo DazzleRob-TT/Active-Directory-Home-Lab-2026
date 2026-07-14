@@ -2,7 +2,7 @@
 
 ## **Introduction**
 
-This is a basic home lab of Active Directory that I attempted using Windows Server 2022.
+#### This is a basic home lab of Active Directory that I attempted using Windows Server 2022.
 
 ## What I used to do the lab
 
