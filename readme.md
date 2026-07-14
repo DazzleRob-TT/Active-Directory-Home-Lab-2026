@@ -10,8 +10,10 @@ This is a basic home lab of Active Directory that I attempted using Windows Serv
 
 #### 2. Operating systems: Windows Server 2022 and Windows 10
 
+
 ## **Configuring the IP Address of the Server**
 ![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/fbd60db98b1d0d9f3a17065ecb6fb57c933f6863/Phase%201/IP%20Change1.png)
+
 
 #### 1. Select Ethernet0 in the Local Sever Tab, IPv4 address assigned by DHCP, IPv6 enabled.
 
@@ -31,7 +33,7 @@ This is a basic home lab of Active Directory that I attempted using Windows Serv
 
 #### 6. At the bottom select use the following DNS server addresses.
 
-In the preferred DNS server field enter the DNS server (I used the loopback IP address) and select OK.
+#### 7. In the preferred DNS server field enter the DNS server (I used the loopback IP address) and select OK.
 
 # **Changing the computer name**
 
