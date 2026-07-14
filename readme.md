@@ -270,7 +270,7 @@ The server will be restarted and the server will be become a domain controller.
 
 #### 5. Create a user password.
 
-For the purposes of this lab I checked the Password never expires box.
+#### For the purposes of this lab I checked the Password never expires box.
 
 
 ![alt image](https://github.com/DazzleRob-TT/Active-Directory-Home-Lab-2026/blob/59ed169539569f2fe5a4c9914cd1588d3927142f/Phase%203/Creating%20users%20and%20groups/UG%2010.png) 
@@ -278,7 +278,7 @@ For the purposes of this lab I checked the Password never expires box.
 
 #### 6. Select Finished.
 
-The user is now created.
+#### The user is now created.
 
 ## **Adding a user to a group**
 
@@ -566,7 +566,7 @@ The user is now created.
 
 #### 4. Enter the name of the Group Policy Object. 
 
-I am creating a password policy.
+#### I am creating a password policy.
 
 #### 5. Select OK.
 
